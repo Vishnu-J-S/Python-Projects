@@ -1,1 +1,2 @@
-
+This project is a virtual coffee machine that has its own set of resources(Water,Milk,Coffee). It has three variants(Espresso, Latte, Cappuccino) and checks if its feasible with the amount of resources it has vs. the required resources.Collects money returns change, if any. Produces a report of resources availble.
+This is a simple project, built under the guidance of Dr.Angela Yu in her Udemy course 100 days of Python! Do check it out!
