@@ -1,2 +1,4 @@
 # Python-Projects
-A virtual coffee machine that asks what coffee you want, checks if its feasible(required resources and existing resources) and collects money from you in quarters($0.25), dimes($0.10),nickels(0.05) and pennies($0.01), returns change if any and gives a report of availble resources( milk, water, coffee) 
+This is a repository of all the projects that I build as I learn python, a place to  show case how i hone my skills in python
+If you're in this repository thank you for going through this repository, thank you for your time!
+If you are learning python, feel free to fork your own copy, and modify my projects!
